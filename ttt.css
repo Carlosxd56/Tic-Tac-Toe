@@ -52,3 +52,7 @@ h1 {
     font-size: 20px;
 }
 
+/* Background Color*/
+body{
+    background-image: url("MenuBG.png");
+}
